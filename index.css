@@ -32,3 +32,13 @@ form{
 button{
     background-color: orange;
 }
+input, select, textarea {
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
+
+input, select {
+    height: 40px;
+}
